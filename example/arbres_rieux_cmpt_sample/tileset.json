@@ -1,0 +1,23 @@
+{
+  "geometricError": 1000.0,
+  "root": {
+    "geometricError": 1000.0,
+    "refine": "ADD",
+    "boundingVolume": {
+      "region": [
+        0.02557,
+        0.76064,
+        0.02579,
+        0.7608,
+        0.0,
+        50.0
+      ]
+    },
+    "content": {
+      "uri": "content/0_0_0.cmpt"
+    }
+  },
+  "asset": {
+    "version": "1.1"
+  }
+}
